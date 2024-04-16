@@ -7,3 +7,4 @@
 6.[lab-6](https://github.com/LingampallyNandini/AIML_10/blob/main/LAB_6.ipynb)
 7.[Lab-07](https://github.com/LingampallyNandini/AIML_10/blob/main/Lab_07.ipynb)
 8.[Lab-08](https://github.com/LingampallyNandini/AIML_10/blob/main/Lab_08.ipynb)
+9.[Lab-09](https://github.com/LingampallyNandini/AIML_10/blob/main/LAB_09.ipynb)
